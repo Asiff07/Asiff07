@@ -1,24 +1,91 @@
-# 💫 About Me:
-🔭 I'm currently working on Full Stack Web Development <br>👯 I'm looking to collaborate on projects like cloning all popular websites <br>🤝I'm currently looking for help with backend services<br>🌱 I'm currently learning JavaScript & got enrolled in Sigma 3.0 by Apna College <br>💭Ask me about anything web related
+# 👋 Hi, I'm Asif Ahmed  
+Full Stack Developer | MERN | Cloud & DevOps Oriented
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asiff.ahmed.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skasif_ahmed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skasifahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skasif_ahmed1) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asiff07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asiff07&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiff07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asiff07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I am a third-year B.Tech CSE student focused on building production-grade full-stack applications and preparing for high-impact software engineering roles. I specialize in backend-heavy systems with real deployment, authentication, payments, and cloud integration.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asiff07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Current Focus
+- Building a **production-ready E-Commerce Platform (MERN)**
+- Strengthening **System Design + Backend Architecture**
+- Learning **CI/CD, Docker, Kubernetes, and AWS**
+- Preparing for **Internships & SDE Roles (2025)**
+
+---
+
+## 🧠 Tech Stack (Actual Working Stack)
+**Languages:**  
+C, Java, JavaScript  
+
+**Frontend:**  
+HTML5, Tailwind CSS, React, Next.js  
+
+**Backend:**  
+Node.js, Express.js, Django  
+
+**Databases:**  
+MongoDB, MySQL  
+
+**Authentication & Security:**  
+JWT, bcrypt, Sessions & Cookies  
+
+**Cloud & DevOps:**  
+Docker, GitHub Actions (CI/CD), AWS EC2, Vercel, Render  
+
+**Media & Tools:**  
+Cloudinary, Git, GitHub, Adobe Photoshop, Premiere Pro, Lightroom  
+
+---
+
+## 🚀 Major Project (Active)
+### 🛒 Advanced E-Commerce Platform — MERN Stack
+**Features:**
+- Secure Authentication & Authorization (JWT + bcrypt)
+- Product & Inventory Management
+- Image Uploads via Cloudinary
+- Stripe & Razorpay Payment Integration
+- Admin Dashboard
+- Order Tracking System
+- Scalable REST API Architecture
+
+**Backend Stack:**  
+Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary
+
+---
+
+## 🎯 Career Target
+- Internship within the next academic cycle
+- Software Development Role (10+ LPA target)
+- Companies of interest: **FAANG, FinTech, Product-Based Startups**
+
+---
+
+## 🌍 Personal Drive
+Highly disciplined daily study routine. Long-term goals include **global travel (Saudi Arabia, Dubai)** and building financially independent systems through technology.
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/skasifahmed  
+- **Instagram:** https://instagram.com/skasif_ahmed1  
+- **Facebook:** https://www.facebook.com/asiff.ahmed.58  
+- **X:** https://x.com/skasif_ahmed1  
+
+---
+
+## 📊 GitHub Statistics
+> Private contributions enabled on profile.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiff07&theme=highcontrast&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asiff07&theme=highcontrast&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiff07&theme=highcontrast&hide_border=true&layout=compact)
+
+---
+
+## 🏆 Contribution Highlights
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Asiff07&limit=5&theme=dark)
+
+---
+
+## 👀 Profile Views
+![Visitors](https://visitcount.itsvg.in/api?id=Asiff07&icon=0&color=0)
