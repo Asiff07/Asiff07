@@ -1,76 +1,82 @@
 # 👋 Hi, I'm Asif Ahmed  
-Full Stack Developer | MERN | Cloud & DevOps Oriented
+Full Stack Developer | MERN | Backend & Scalable Systems Focused  
 
-I am a third-year B.Tech CSE student focused on building production-grade full-stack applications and preparing for high-impact software engineering roles. I specialize in backend-heavy systems with real deployment, authentication, payments, and cloud integration.
+I am a third-year B.Tech CSE student focused on building production-grade web applications with emphasis on backend scalability, performance optimization, and real-world deployment.
 
 ---
 
 ## 🔧 Current Focus
-- Building a **production-ready E-Commerce Platform (MERN)**
-- Strengthening **System Design + Backend Architecture**
-- Learning **CI/CD, Docker, Kubernetes, and AWS**
+- Building **production-ready scalable applications (MERN)**
+- Improving **backend performance (caching, rate limiting)**
+- Learning **system design, distributed systems, and DevOps**
 - Preparing for **Internships & SDE Roles (2025)**
 
 ---
 
-## 🧠 Tech Stack (Actual Working Stack)
-**Languages:**  
-C, Java, JavaScript  
+## 🧠 Tech Stack
 
-**Frontend:**  
-HTML5, Tailwind CSS, React, Next.js  
+### 💻 Languages  
+Java, JavaScript, C, C++, Python  
 
-**Backend:**  
-Node.js, Express.js, Django  
+### 🎨 Frontend  
+HTML5, Tailwind CSS, React.js, Next.js  
 
-**Databases:**  
+### ⚙️ Backend  
+Node.js, Express.js
+RESTful APIs, WebSockets (Socket.IO)
+
+### 🗄️ Databases  
 MongoDB, MySQL  
 
-**Authentication & Security:**  
-JWT, bcrypt, Sessions & Cookies  
+### 🔐 Authentication & Security  
+JWT, bcrypt, Sessions, Cookies  
+API Rate Limiting  
 
-**Cloud & DevOps:**  
-Docker, GitHub Actions (CI/CD), AWS EC2, Vercel, Render  
+### ⚡ Performance & Scalability  
+Redis (Caching)  
+API Optimization & Efficient Query Handling  
 
-**Media & Tools:**  
-Cloudinary, Git, GitHub, Adobe Photoshop, Premiere Pro, Lightroom  
+### ☁️ Cloud & DevOps  
+Docker, Kubernetes, CI/CD (GitHub Actions)  
+AWS EC2, Vercel, Render  
+Nginx (Reverse Proxy & Deployment)  
 
----
+### 🔄 Messaging & Systems (Learning / Exploring)  
+Apache Kafka (Event Streaming Basics)  
 
-## 🚀 Major Project (Active)
-### 🛒 Advanced E-Commerce Platform — MERN Stack
-**Features:**
-- Secure Authentication & Authorization (JWT + bcrypt)
-- Product & Inventory Management
-- Image Uploads via Cloudinary
-- Stripe & Razorpay Payment Integration
-- Admin Dashboard
-- Order Tracking System
-- Scalable REST API Architecture
-
-**Backend Stack:**  
-Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary
+### 🛠️ Tools  
+Git, GitHub, Cloudinary, ImageKit  
 
 ---
 
-## 🎯 Career Target
-- Internship within the next academic cycle
-- Software Development Role (10+ LPA target)
-- Companies of interest: **FAANG, FinTech, Product-Based Startups**
+## 🚀 Projects
+
+### 🛒 Buyora — E-Commerce Platform (MERN)
+- JWT Authentication & Role-based Access  
+- Stripe & Razorpay Payment Integration  
+- Admin Dashboard & Order Management  
+- Redis Caching for faster product/API responses  
+- Optimized REST APIs for scalability  
+
+### 🤖 SigmaGPT — AI SaaS Platform
+- Real-time Chat & Image Generation  
+- Credit-based system with Stripe billing  
+- Persistent chat system  
+- API Rate Limiting for abuse prevention  
+- Scalable backend architecture  
 
 ---
 
-## 🌍 Personal Drive
-Highly disciplined daily study routine. Long-term goals include **global travel (Saudi Arabia, Dubai)** and building financially independent systems through technology.
+## 🎯 Career Goal
+- Secure a **high-impact software engineering internship**
+- Transition into **SDE role (10+ LPA target)**
+- Targeting **product-based companies & strong startups**
 
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/skasifahmed  
-- **Instagram:** https://instagram.com/skasif_ahmed1  
-- **Facebook:** https://www.facebook.com/asiff.ahmed.58  
-- **X:** https://x.com/skasif_ahmed1  
+- LinkedIn: https://linkedin.com/in/skasifahmed  
+- GitHub: https://github.com/Asiff07
+- Portfolio: https://skasifahmed.dev  
 
 ---
-
-
